@@ -3,7 +3,7 @@
 // @namespace   http://savefrom.net/
 // @version     5.31.2
 // @date        2015-08-18
-// @author      Magicbit, Inc
+// @author      Magicbit, Inc  xacker-niaca
 // @description Youtube Downloader: all in one script to get Vimeo, Facebook, Dailymotion videos for free
 // @homepage    http://savefrom.net/user.php?helper=userjs
 // @icon        http://savefrom.net/img/extension/icon_16.png
